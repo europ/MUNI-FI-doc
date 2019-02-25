@@ -2,11 +2,19 @@
 
 ## About
 
-TODO
+[MUNI](https://www.muni.cz/) [FI](https://www.fi.muni.cz/) LaTeX doc templates in
+  * [english](https://github.com/europ/MUNI-FI-doc/tree/master/src/eng)
+    * [doc.pdf](https://github.com/europ/MUNI-FI-doc/tree/master/src/eng/doc.pdf)
+  * [slovak](https://github.com/europ/MUNI-FI-doc/tree/master/src/svk)
+    * [doc.pdf](https://github.com/europ/MUNI-FI-doc/tree/master/src/svk/doc.pdf)
+  * [czech](https://github.com/europ/MUNI-FI-doc/tree/master/src/cze)
+    * [doc.pdf](https://github.com/europ/MUNI-FI-doc/tree/master/src/cze/doc.pdf)
+
+This repository was inspired by (based on) [github.com/europ/VUTBR-FIT-doc](https://github.com/europ/VUTBR-FIT-doc).
 
 ## Help
 
-TODO
+Help is available [here](https://github.com/europ/MUNI-FI-doc/blob/master/HELP.md).
 
 ## Contributing
 
