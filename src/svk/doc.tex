@@ -44,38 +44,52 @@
 \begin{document}
 
 \begin{titlepage}
+
     \begin{center}
-        \Huge{
-            \textsc{
-                Fakulta informatiky\\
-                \hspace{33px}Masarykova univerzita
-            }
-        }
-        \vspace{50px}
+        % FIX: lines must end with '%', if not then it will result in an incorrect centering
+        \vfill {%
+            \Huge{%
+                \textsc{%
+                    Fakulta informatiky\\[3mm]%
+                    Masarykova univerzita%
+                }%
+            }%
+        }%
+
+        \hfill\\[15mm]
+
         \begin{figure}[!h]
             \centering
             \includegraphics[scale=3]{muni-fi-logo.pdf}
         \end{figure}
-        \\[15mm]
+
+        \hfill\\[10mm]
+
         \Huge{
             \textbf{
                 ABC
             }
         }
-        \\[1.5mm]
+
+        \hfill\\[-10mm]
+
         \huge{
             \textbf{
                 Názov predmetu
             }
         }
-        \\[2.5em]
+
+        \hfill\\[10mm]
+
         \LARGE{
             \textbf{
                 Názov dokumentu
             }
         }
         \vfill
+
     \end{center}
+
         \Large{
             Meno Priezvisko (xlogin00)\hfill \today
         }
