@@ -1,5 +1,11 @@
 # doc
 
+[![LaTeX](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
+[![Build Status](https://travis-ci.org/europ/MUNI-FI-doc.svg?branch=master)](https://travis-ci.org/europ/MUNI-FI-doc)
+[![release](https://img.shields.io/github/release/europ/MUNI-FI-doc.svg)](https://github.com/europ/VUTBR-FIT-BT/releases/latest)
+[![commits](https://img.shields.io/github/commits-since/europ/MUNI-FI-doc/latest.svg)](https://github.com/europ/MUNI-FI-doc/commits/master)
+[![license](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/europ/MUNI-FI-doc/blob/master/LICENSE)
+
 ## About
 
 [MUNI](https://www.muni.cz/) [FI](https://www.fi.muni.cz/) LaTeX doc templates in
